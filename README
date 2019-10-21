@@ -1,0 +1,4 @@
+Application Sinatra
+
+Je me suis arrêtée au niveau 2.7
+J'ai crée le chemin pour éditer le potin, mais je n'ai pas crée de fonction "update" qui mette correctement à jour le potin, dans la liste de potin.
